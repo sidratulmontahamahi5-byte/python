@@ -1,0 +1,5 @@
+name="Myth"
+age=19
+print("our new student name is "+name)
+print(name+"lives in sylhet")
+print("at the ",age,"he has starting to learn paython")
