@@ -1,0 +1,9 @@
+result=30>20
+result1=30<20
+print(result)
+print(result1)
+print(20>=30)
+print(20<=30)
+print(20==30)
+print(20!=30)
+print("mahi"=="mahi")
