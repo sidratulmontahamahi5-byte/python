@@ -1,0 +1,7 @@
+mark=10
+if mark>=20:
+    print("pass")
+    print("congratulation")
+else:
+    print("fail")
+
