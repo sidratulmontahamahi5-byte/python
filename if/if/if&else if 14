@@ -1,0 +1,12 @@
+num1=20
+num2=30
+if num1>num2:
+    print("choto")
+else:
+    print("boro")
+#another
+num=13
+if num%2==0:
+    print("even")
+else:
+    print("odd")
